@@ -1,4 +1,5 @@
-name: HerokuCI
+name: Publish To Heroku 
+description: Action to publish code with heroku
 on:
   push:
     branches:
